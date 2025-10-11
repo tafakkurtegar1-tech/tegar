@@ -10,7 +10,7 @@
 
 <img src="https://github.com/user-attachments/assets/8656d7de-68bb-4a6c-85b8-9d6fd6fee5c0" style="width:50%"  />
 
-### Tampilan Halaman Contact ada logo yang tulisan Portfolio tombol home,profil dan kontak, dan tombol read more ketika di klik maka akan langsung ke akun instagram saya.
+### Tampilan Halaman Profil ada logo yang tulisan Portfolio tombol home,profil dan kontak, dan tombol read more ketika di klik maka akan langsung ke akun instagram saya.
  
 ## Tampilan Halaman Contact
 
@@ -22,6 +22,7 @@
 [clik me](https://tafakkurtegar1-tech-github-io.vercel.app/indeks.html)
 
 # TERIMA KASIH
+
 
 
 
