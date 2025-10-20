@@ -19,9 +19,10 @@
 ### Di halaman Contact ada juga logo yang tertulis contact tombol home,profil dan kontak serta tombol read more yang ketika di klik maka akan menuju ke halaman profil.
 
  ## Link
-[clik me](https://tafakkurtegar1-tech-github-io.vercel.app/indeks.html)
+[clik me](https://tegar-jade.vercel.app/indeks.html)
 
 # TERIMA KASIH
+
 
 
 
