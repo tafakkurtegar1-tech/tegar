@@ -155,8 +155,8 @@ p {
 }
 
 .img-about {
-    width: 300px;
-    height: 325px;
+    width: 500px;
+    height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -203,4 +203,5 @@ p {
         height: auto;
     }
 }
+
 
