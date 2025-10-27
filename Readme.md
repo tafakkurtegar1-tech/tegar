@@ -19,9 +19,10 @@
 ### Di halaman Contact ada juga logo yang tertulis contact tombol home,profil dan kontak serta tombol read more yang ketika di klik maka akan menuju ke halaman profil.
 
  ## Link
-[clik me](https://tegar-z4zq.vercel.app/)
+[clik me](https://tegar-lvuk.vercel.app/)
 
 # TERIMA KASIH
+
 
 
 
