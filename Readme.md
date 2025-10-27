@@ -8,7 +8,7 @@
 
 <h1>Tampilan Halaman about </h1>
 
-<img src="assets/screenshot(58).png" style="width:50%"  />
+<img src="https://github.com/tafakkurtegar1-tech/tegar/blob/main/assets/Screenshot%20(58).png" style="width:50%"  />
 
 ### Tampilan Halaman about ada logo yang tulisan Portfolio tombol home,profil dan kontak, dan. dan penjelasan tentang saya.
  
@@ -22,6 +22,7 @@
 [clik me](https://tegar-lvuk.vercel.app/)
 
 # TERIMA KASIH
+
 
 
 
