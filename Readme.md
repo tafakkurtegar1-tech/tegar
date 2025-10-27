@@ -14,7 +14,7 @@
  
 ## Tampilan Halaman Contact
 
-<img src="assets/screenshot(59).png" style="width:50%" />
+<img src="https://github.com/tafakkurtegar1-tech/tegar/blob/main/assets/Screenshot%20(59).png" style="width:50%" />
 
 ### Di halaman Contact ada juga logo yang tertulis contact tombol home,profil dan kontak serta tombol click here yang ketika di klik maka akan menuju ke akun instagram saya.
 
@@ -22,6 +22,7 @@
 [clik me](https://tegar-lvuk.vercel.app/)
 
 # TERIMA KASIH
+
 
 
 
