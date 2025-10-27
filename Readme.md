@@ -2,7 +2,7 @@
 
 ## Tampilan Halaman Home Portfolio saya
 
-<img src="assets/screenshot(57).png" style="width:50%" />
+<img src="https://github.com/tafakkurtegar1-tech/tegar/blob/main/assets/Screenshot%20(57).png" style="width:50%" />
 
 ### Di home ada logo yang tertulis portfolio, tombol home,profil dan contact, serta tombol read more yang ketika di klik akan menuju ke halaman about.html.
 
@@ -22,6 +22,7 @@
 [clik me](https://tegar-lvuk.vercel.app/)
 
 # TERIMA KASIH
+
 
 
 
