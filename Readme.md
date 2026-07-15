@@ -19,7 +19,7 @@
 ### Di halaman Contact ada juga logo yang tertulis contact tombol home,profil dan kontak serta tombol click here yang ketika di klik maka akan menuju ke akun instagram saya.
 
  ## Link
-[clik me](https://tegar-lvuk.vercel.app/)
+[clik me](https://tegar-nciq.vercel.app/)
 
 # TERIMA KASIH
 
